@@ -27,3 +27,5 @@ To perform end-to-end analysis of Zomato’s global restaurant dataset using SQL
 9. Develop Charts based on Cusines, City, Ratings
 
 - DashBoard Interaction : <a href =" https://github.com/kalyankumar1207/Zomato_Data_Analysis_Dashboard/blob/main/Zomato_Excel_Dashboard.png">View Dashboard<a/>
+
+<img width="1596" height="768" alt="Zomato_Excel_Dashboard" src="https://github.com/user-attachments/assets/5841178e-e2e8-45b2-b020-68bf0cca7923" />
