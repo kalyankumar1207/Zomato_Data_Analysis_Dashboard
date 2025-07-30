@@ -11,14 +11,23 @@ To perform end-to-end analysis of Zomato’s global restaurant dataset using SQL
 2.Build a Calendar Table using the Column Datekey
   Add all the below Columns in the Calendar Table using the Formulas.
    A.Year
+   
    B.Monthno
+   
    C.Monthfullname
+   
    D.Quarter(Q1,Q2,Q3,Q4)
+   
    E. YearMonth ( YYYY-MMM)
+   
    F. Weekdayno
+   
    G.Weekdayname
+   
    H.FinancialMOnth ( April = FM1, May= FM2  …. March = FM12)
+   
    I. Financial Quarter ( Quarters based on Financial Month)
+   
 3.Find the Numbers of Resturants based on City and Country.
 
 4.Numbers of Resturants opening based on Year , Quarter , Month
