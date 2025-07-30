@@ -26,4 +26,4 @@ To perform end-to-end analysis of Zomato’s global restaurant dataset using SQL
 8.Percentage of Resturants based on "Has_Online_delivery"
 9. Develop Charts based on Cusines, City, Ratings
 
-- DashBoard Interaction : <a https://github.com/kalyankumar1207/Zomato_Data_Analysis_Dashboard/blob/main/Zomato_Excel_Dashboard.png>View Dashboard<a/>
+- DashBoard Interaction : <a href =" https://github.com/kalyankumar1207/Zomato_Data_Analysis_Dashboard/blob/main/Zomato_Excel_Dashboard.png">View Dashboard<a/>
