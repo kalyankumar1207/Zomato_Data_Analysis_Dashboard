@@ -28,5 +28,12 @@ To perform end-to-end analysis of Zomato’s global restaurant dataset using SQL
 
 - DashBoard Interaction : <a href =" https://github.com/kalyankumar1207/Zomato_Data_Analysis_Dashboard/blob/main/Zomato_Excel_Dashboard.png">View Dashboard<a/>
 
-## Excel Dashboard
+## Excel – Pivot Analysis & Static Dashboard
 <img width="1596" height="768" alt="Zomato_Excel_Dashboard" src="https://github.com/user-attachments/assets/5841178e-e2e8-45b2-b020-68bf0cca7923" />
+
+
+## Power BI – Interactive Dashboard & Storytelling
+<img width="1305" height="735" alt="Zomato_Power BI_Dashboard" src="https://github.com/user-attachments/assets/a453722d-76c6-4863-92b2-016bf7a6bbbc" />
+
+## Tableau – Visual Storytelling & Geographic Insights
+<img width="1919" height="988" alt="Zomato_Tableau_Dashboard (2)" src="https://github.com/user-attachments/assets/54e8ab5c-b2a9-4e4a-a967-d1114997561f" />
